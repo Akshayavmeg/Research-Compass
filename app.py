@@ -83,6 +83,38 @@ def display_faculty_matches(matches: List[Dict[str, Any]], title: str = "Faculty
     if not matches:
         console.print("[yellow]No faculty matches found.[/yellow]")
         return
+
+    # -------------------------------
+    # Summary Panel
+    # -------------------------------
+    top = matches[0]["faculty"]
+
+    areas = []
+    for m in matches:
+        for area in m["faculty"]["research_areas"]:
+            if area not in areas:
+                areas.append(area)
+
+    summary = (
+        f"[bold green]✓ Found {len(matches)} matching faculty members[/bold green]\n\n"
+        f"[bold]Best Match:[/bold] {top['name']}\n"
+        f"[bold]Top Research Areas:[/bold] {', '.join(areas[:5])}\n\n"
+        "These faculty members closely align with your research interest "
+        "based on semantic similarity and research expertise."
+    )
+
+    console.print(
+        Panel(
+            summary,
+            title="🔍 Research Summary",
+            border_style="cyan",
+            expand=False,
+        )
+    )
+
+    # -------------------------------
+    # Faculty Table
+    # -------------------------------
     table = Table(title=title, show_lines=True)
     table.add_column("Name", style="bold cyan")
     table.add_column("Department")
@@ -96,6 +128,7 @@ def display_faculty_matches(matches: List[Dict[str, Any]], title: str = "Faculty
         workload = m.get("workload", {})
         slots = f"{workload.get('available_slots', '-')}/{f.get('max_project_slots', '-')}"
         slot_style = "red" if workload.get("level") == "OVERLOADED" else "green"
+
         table.add_row(
             f["name"],
             f["department"],
@@ -104,7 +137,10 @@ def display_faculty_matches(matches: List[Dict[str, Any]], title: str = "Faculty
             f"[{slot_style}]{slots}[/{slot_style}]",
             m["reason"],
         )
+
     console.print(table)
+        
+
 
 
 def display_full_profile(faculty: Dict[str, Any]) -> None:
