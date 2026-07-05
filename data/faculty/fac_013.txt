@@ -1,0 +1,13 @@
+Name: Dr. Lakshmi Narayan
+Designation: Professor
+Department: Computer Science & Engineering
+Research Areas: Artificial Intelligence, Knowledge Representation, Multi-Agent Systems
+Keywords: planning, knowledge graphs, multi-agent systems, symbolic AI, neuro-symbolic
+Current Projects: Neuro-symbolic reasoning for scientific discovery, Multi-agent negotiation frameworks for resource allocation
+Publications: Narayan, L. (2022) 'Neuro-Symbolic Reasoning: A Survey', AAAI.
+Experience: 22 years
+Available Project Slots: 1 / 4
+Past Students: Harsha Vardhan, Meenal Joshi
+Email: lakshmi.narayan@university.edu
+Office: AI Research Center, Room 5
+Biography: Dr. Lakshmi Narayan directs the AI Research Center and has been active in the field since the early resurgence of neural methods. Her current interest is combining symbolic reasoning with modern deep learning.

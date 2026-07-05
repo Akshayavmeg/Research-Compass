@@ -1,0 +1,13 @@
+Name: Dr. Neha Kapoor
+Designation: Associate Professor
+Department: Computer Science & Engineering
+Research Areas: Machine Learning, Computer Vision, Generative Models
+Keywords: GANs, diffusion models, image generation, representation learning
+Current Projects: Diffusion-based synthetic data generation for rare medical conditions, Representation learning for satellite imagery
+Publications: Kapoor, N. (2023) 'Diffusion Models for Rare-Class Medical Data Augmentation', MICCAI.
+Experience: 8 years
+Available Project Slots: 0 / 4
+Past Students: Ayesha Malik, Ravi Teja
+Email: neha.kapoor@university.edu
+Office: CSE Block B, Room 150
+Biography: Dr. Neha Kapoor works at the boundary of generative modeling and computer vision, with applications ranging from medical imaging to remote sensing.

@@ -1,0 +1,13 @@
+Name: Dr. Vikram Nair
+Designation: Professor
+Department: Computer Science & Engineering
+Research Areas: Computer Vision, Deep Learning, Medical Imaging
+Keywords: CNNs, object detection, segmentation, diffusion models, vision transformers
+Current Projects: Automated tumor segmentation from MRI scans, Real-time defect detection for manufacturing lines
+Publications: Nair, V. (2023) 'Vision Transformers for Medical Image Segmentation', CVPR., Nair, V. & Das, R. (2021) 'Lightweight Object Detectors for Edge Devices', ICCV.
+Experience: 16 years
+Available Project Slots: 0 / 5
+Past Students: Rohan Verma, Aisha Khan
+Email: vikram.nair@university.edu
+Office: CSE Block B, Room 108
+Biography: Dr. Vikram Nair directs the Vision & Perception Lab, with 16 years of experience spanning academic and industrial computer vision. His current focus is efficient vision transformers deployable on edge hardware for healthcare and manufacturing.

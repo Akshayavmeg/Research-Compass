@@ -1,0 +1,13 @@
+Name: Dr. Arjun Malhotra
+Designation: Assistant Professor
+Department: Computer Science & Engineering
+Research Areas: Blockchain, Distributed Systems, Cryptoeconomics
+Keywords: consensus protocols, smart contracts, DeFi, Byzantine fault tolerance, distributed ledgers
+Current Projects: Scalable consensus protocols for permissioned blockchains, Formal verification of smart contracts
+Publications: Malhotra, A. (2023) 'Byzantine Fault Tolerant Consensus at Scale', ICDCS.
+Experience: 5 years
+Available Project Slots: 0 / 3
+Past Students: 
+Email: arjun.malhotra@university.edu
+Office: CSE Block C, Room 22
+Biography: Dr. Arjun Malhotra studies the intersection of distributed systems and economic incentive design. Before joining academia he worked on consensus engineering at a blockchain startup.

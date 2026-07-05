@@ -1,0 +1,13 @@
+Name: Dr. Anil Bhatt
+Designation: Professor
+Department: Computer Science & Engineering
+Research Areas: Distributed Systems, Fault Tolerance, Database Systems
+Keywords: consensus, replication, distributed databases, fault tolerance, consistency models
+Current Projects: Geo-replicated database consistency under network partitions, Self-healing distributed storage systems
+Publications: Bhatt, A. (2020) 'Consistency Models for Geo-Replicated Databases', VLDB.
+Experience: 20 years
+Available Project Slots: 0 / 4
+Past Students: Tanvi Rao, Girish Kumar, Alok Nath
+Email: anil.bhatt@university.edu
+Office: CSE Block B, Room 305
+Biography: Dr. Anil Bhatt is one of the department's most senior faculty, with two decades of work on distributed databases. Several of his former students now lead systems teams at major tech companies.

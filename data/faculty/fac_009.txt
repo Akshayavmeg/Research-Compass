@@ -1,0 +1,13 @@
+Name: Dr. Sneha Kulkarni
+Designation: Assistant Professor
+Department: Electronics & Communication
+Research Areas: Networking, Wireless Communication, 5G/6G Systems
+Keywords: 5G, network slicing, SDN, wireless protocols, network optimization
+Current Projects: Dynamic network slicing for 5G private networks, SDN-based traffic engineering for campus backbones
+Publications: Kulkarni, S. (2023) 'Dynamic Network Slicing in 5G Core Networks', IEEE Trans. Networking.
+Experience: 7 years
+Available Project Slots: 2 / 3
+Past Students: Om Prakash
+Email: sneha.kulkarni@university.edu
+Office: ECE Building, Room 67
+Biography: Dr. Sneha Kulkarni's Networking Lab focuses on making next-generation wireless networks programmable and efficient, with active collaborations with telecom operators.

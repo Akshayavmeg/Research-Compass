@@ -1,0 +1,13 @@
+Name: Dr. Ananya Rao
+Designation: Associate Professor
+Department: Computer Science & Engineering
+Research Areas: Natural Language Processing, Large Language Models, Information Retrieval
+Keywords: transformers, LLMs, text summarization, question answering, RAG
+Current Projects: Domain-adaptive fine-tuning for low-resource Indian languages, Retrieval-augmented generation for legal document search
+Publications: Rao, A. et al. (2023) 'Cross-lingual Transfer for Low-Resource NLP', ACL., Rao, A. & Iyer, S. (2022) 'Efficient RAG Pipelines for Enterprise Search', EMNLP.
+Experience: 11 years
+Available Project Slots: 1 / 4
+Past Students: Priya Menon, Karthik S., Fatima Sheikh
+Email: ananya.rao@university.edu
+Office: CSE Block A, Room 214
+Biography: Dr. Ananya Rao leads the NLP & Language Understanding Lab. Her work focuses on making large language models practical for low-resource languages and enterprise retrieval settings. She has supervised 12 graduate theses and holds two patents in text summarization.

@@ -1,0 +1,13 @@
+Name: Dr. Kavya Reddy
+Designation: Associate Professor
+Department: Electronics & Communication
+Research Areas: Internet of Things, Embedded Systems, Edge Computing
+Keywords: IoT, sensor networks, low-power design, edge AI, firmware
+Current Projects: Low-power sensor networks for precision agriculture, Edge AI inference on microcontrollers
+Publications: Reddy, K. (2023) 'TinyML for Agricultural Sensor Networks', IEEE IoT Journal.
+Experience: 9 years
+Available Project Slots: 1 / 4
+Past Students: Manish Joshi
+Email: kavya.reddy@university.edu
+Office: ECE Building, Room 45
+Biography: Dr. Kavya Reddy's lab builds low-power IoT systems deployed in real agricultural fields across three states. She is particularly interested in TinyML — squeezing useful inference onto milliwatt-scale hardware.

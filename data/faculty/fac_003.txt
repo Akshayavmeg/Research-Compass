@@ -1,0 +1,13 @@
+Name: Dr. Meera Iyer
+Designation: Assistant Professor
+Department: Computer Science & Engineering
+Research Areas: Machine Learning, Reinforcement Learning, Time-Series Forecasting
+Keywords: RL, bandits, forecasting, causal inference, AutoML
+Current Projects: Reinforcement learning for adaptive tutoring systems, Causal forecasting for energy demand prediction
+Publications: Iyer, M. (2024) 'Causal Bandits for Adaptive Learning Systems', NeurIPS.
+Experience: 6 years
+Available Project Slots: 2 / 3
+Past Students: Devansh Gupta
+Email: meera.iyer@university.edu
+Office: CSE Block A, Room 301
+Biography: Dr. Meera Iyer joined the department after a postdoc at a leading RL lab. She is especially interested in applying reinforcement learning to real-world adaptive systems such as personalized education and energy management.

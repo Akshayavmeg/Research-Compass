@@ -1,0 +1,13 @@
+Name: Dr. Deepak Menon
+Designation: Professor
+Department: Computer Science & Engineering
+Research Areas: Software Engineering, Program Analysis, DevOps
+Keywords: static analysis, test generation, CI/CD, software quality, refactoring
+Current Projects: Automated test generation using large language models, Empirical study of technical debt in open-source projects
+Publications: Menon, D. (2023) 'LLM-Assisted Test Generation at Scale', ICSE., Menon, D. & Rao, A. (2021) 'Measuring Technical Debt in Practice', TSE.
+Experience: 17 years
+Available Project Slots: 2 / 5
+Past Students: Varun Iyer, Pooja Nambiar, Siddharth Rao
+Email: deepak.menon@university.edu
+Office: CSE Block A, Room 402
+Biography: Dr. Deepak Menon bridges classical software engineering research with modern LLM tooling, studying how AI-assisted development changes software quality and maintainability.

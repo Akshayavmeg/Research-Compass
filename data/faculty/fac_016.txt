@@ -1,0 +1,13 @@
+Name: Dr. Sameer Joshi
+Designation: Professor
+Department: Electronics & Communication
+Research Areas: Cyber-Physical Systems, IoT, Networking
+Keywords: cyber-physical systems, industrial IoT, network protocols, digital twins
+Current Projects: Digital twin frameworks for smart manufacturing, Secure protocols for industrial IoT deployments
+Publications: Joshi, S. (2021) 'Digital Twins for Cyber-Physical Manufacturing Systems', IEEE TII.
+Experience: 15 years
+Available Project Slots: 1 / 3
+Past Students: Chirag Patel
+Email: sameer.joshi@university.edu
+Office: ECE Building, Room 88
+Biography: Dr. Sameer Joshi's lab builds cyber-physical systems that bridge networking, IoT, and industrial control, with strong ties to manufacturing industry partners.

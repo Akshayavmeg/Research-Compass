@@ -1,0 +1,13 @@
+Name: Dr. Rohit Chandra
+Designation: Associate Professor
+Department: Computer Science & Engineering
+Research Areas: Big Data, Data Mining, Data Engineering
+Keywords: Spark, data pipelines, pattern mining, streaming analytics, data warehousing
+Current Projects: Real-time anomaly detection over streaming data pipelines, Scalable pattern mining for retail transaction logs
+Publications: Chandra, R. (2022) 'Scalable Streaming Anomaly Detection', IEEE Big Data.
+Experience: 10 years
+Available Project Slots: 0 / 3
+Past Students: Yash Trivedi, Neha Bhat
+Email: rohit.chandra@university.edu
+Office: CSE Block A, Room 118
+Biography: Dr. Rohit Chandra's research turns messy, high-volume data into reliable real-time signals. He collaborates closely with retail and logistics industry partners on applied data mining.

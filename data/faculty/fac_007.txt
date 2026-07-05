@@ -1,0 +1,13 @@
+Name: Dr. Priyanka Desai
+Designation: Professor
+Department: Computer Science & Engineering
+Research Areas: Cloud Computing, Distributed Systems, Systems Performance
+Keywords: Kubernetes, microservices, serverless, resource scheduling, container orchestration
+Current Projects: Cost-aware autoscaling for serverless workloads, Energy-efficient scheduling in multi-tenant clusters
+Publications: Desai, P. (2021) 'Cost-Aware Autoscaling in Serverless Platforms', ACM SoCC., Desai, P. & Nair, V. (2020) 'Energy-Efficient Scheduling for Cloud Clusters', USENIX ATC.
+Experience: 14 years
+Available Project Slots: 2 / 4
+Past Students: Rahul Kapoor, Divya Shah
+Email: priyanka.desai@university.edu
+Office: CSE Block B, Room 219
+Biography: Dr. Priyanka Desai's Cloud Systems Lab partners with several industry cloud providers to study real production workloads. She teaches the department's flagship distributed systems course.

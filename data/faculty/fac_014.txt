@@ -1,0 +1,13 @@
+Name: Dr. Farhan Ahmed
+Designation: Assistant Professor
+Department: Computer Science & Engineering
+Research Areas: Natural Language Processing, Speech Processing, Multimodal Learning
+Keywords: speech recognition, multimodal models, text-to-speech, audio-visual learning
+Current Projects: Multimodal models for accessible audio-visual content, Low-resource speech recognition for regional dialects
+Publications: Ahmed, F. (2024) 'Multimodal Learning for Accessibility Applications', Interspeech.
+Experience: 4 years
+Available Project Slots: 2 / 3
+Past Students: 
+Email: farhan.ahmed@university.edu
+Office: CSE Block A, Room 210
+Biography: Dr. Farhan Ahmed recently joined after completing his PhD on multimodal speech and language models. He is building out a new lab focused on accessibility-oriented AI.

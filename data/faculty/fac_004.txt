@@ -1,0 +1,13 @@
+Name: Dr. Suresh Pillai
+Designation: Professor
+Department: Cyber Security
+Research Areas: Cyber Security, Network Security, Applied Cryptography
+Keywords: intrusion detection, malware analysis, zero trust, cryptography, penetration testing
+Current Projects: AI-assisted intrusion detection for campus networks, Post-quantum cryptography readiness assessment
+Publications: Pillai, S. (2022) 'Machine Learning for Network Intrusion Detection: A Survey', IEEE S&P.
+Experience: 19 years
+Available Project Slots: 2 / 4
+Past Students: Nikhil Rathi, Sana Fernandes, Arjun Bose
+Email: suresh.pillai@university.edu
+Office: Security Research Building, Room 12
+Biography: Dr. Suresh Pillai heads the Cyber Security Research Group and consults for national CERT initiatives. His lab studies both offensive and defensive security, with a growing focus on how machine learning changes the threat landscape.

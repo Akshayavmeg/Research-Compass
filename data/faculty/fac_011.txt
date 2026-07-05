@@ -1,0 +1,13 @@
+Name: Dr. Ritu Sharma
+Designation: Associate Professor
+Department: Electronics & Communication
+Research Areas: Embedded Systems, Robotics, Control Systems
+Keywords: robotics, motion planning, embedded control, SLAM, real-time systems
+Current Projects: Autonomous navigation for warehouse robots, Real-time control firmware for robotic arms
+Publications: Sharma, R. (2022) 'SLAM for Low-Cost Warehouse Robots', IEEE ICRA.
+Experience: 12 years
+Available Project Slots: 2 / 4
+Past Students: Kabir Singh, Ishaan Roy
+Email: ritu.sharma@university.edu
+Office: Robotics Lab, Room 3
+Biography: Dr. Ritu Sharma runs the Robotics & Autonomous Systems Lab, building robots that operate reliably on constrained embedded hardware in real warehouses.
